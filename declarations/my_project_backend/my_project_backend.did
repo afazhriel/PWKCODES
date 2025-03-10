@@ -1,0 +1,4 @@
+service : {
+  addResume: (text, text) -> ();
+  getResume: (text) -> (opt text) query;
+}
